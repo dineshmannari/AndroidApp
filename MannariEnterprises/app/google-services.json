@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "675237017707",
+    "project_id": "mannarienterprises",
+    "storage_bucket": "mannarienterprises.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:675237017707:android:cdc51dfab34b5214fc192e",
+        "android_client_info": {
+          "package_name": "com.example.designapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "675237017707-a79hc0kl7ta4a6v1iufnqp0pjo6n4gsg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBA24sTAY19xlfp9QjpnzK4HmLqsW5R1_0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "675237017707-a79hc0kl7ta4a6v1iufnqp0pjo6n4gsg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:675237017707:android:f9a80dac8bf855d2fc192e",
+        "android_client_info": {
+          "package_name": "com.example.mannarienterprises"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "675237017707-a79hc0kl7ta4a6v1iufnqp0pjo6n4gsg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBA24sTAY19xlfp9QjpnzK4HmLqsW5R1_0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "675237017707-a79hc0kl7ta4a6v1iufnqp0pjo6n4gsg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
